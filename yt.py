@@ -5,7 +5,7 @@ import lib.action as YT
 import lib.cli as cli
 import threading
 import signal
-import lib.chromedriver.exe
+import lib.chromedriver.exe as chromedriver
 
 cli.banner()
 
